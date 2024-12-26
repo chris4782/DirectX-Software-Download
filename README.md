@@ -74,8 +74,7 @@ Post-installation, optimize settings as follows:
 - **Graphics Optimization**: Adjust via `Graphics Control Panel`.
 - **Driver Updates**: Check updates using `Device Manager`.
 
-For those aiming to enhance their system’s graphics performance, the article "[DirectX 12 Download: The Ultimate Installation Guide](https://github.com/chris4782/DirectX-12-Download/blob/main/README.md)" is a must-read. It offers detailed instructions on downloading and installing DirectX 12, helping you unlock advanced features and improve gaming or multimedia applications.
-
+*Author's Note: I recommend exploring the article [QuickBooks Online](https://millvillevfd.com/how-are-refunds-categorized-in-quickbooks-online/) to gain a clear understanding of refund categorization. It provides valuable insights to help you manage your refunds effectively and keep your records accurate.*
 
 ## Common Issues and Solutions (20 minutes)
 
